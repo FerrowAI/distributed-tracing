@@ -1,1 +1,24 @@
-{"name":"distributed-tracing","version":"1.0.0","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc","test":"jest"},"keywords":["ferrow"],"license":"MIT"}
+{
+  "name": "distributed-tracing",
+  "version": "2.0.0",
+  "description": "A tracer producing spans with traceId/spanId/parentSpanId, spec-correct W3C traceparent header inject/extract, child spans, span events/tags, duration, and a pluggable exporter interface with bundled Console and InMemory exporters.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "tracing",
+    "distributed-tracing",
+    "opentelemetry",
+    "w3c-trace-context",
+    "observability",
+    "typescript"
+  ],
+  "author": "Ruzylo-cloud",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
