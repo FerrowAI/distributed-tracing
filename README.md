@@ -1,4 +1,5 @@
 # distributed-tracing
+![CI](https://github.com/FerrowAI/distributed-tracing/actions/workflows/ci.yml/badge.svg)
 
 A small distributed tracer: spans with `traceId`/`spanId`/`parentSpanId`,
 spec-correct W3C `traceparent` header inject/extract, child spans, tags,
