@@ -102,4 +102,4 @@ shouldn't make for you.
 Sponsored by [Ferrow](https://ferrow.ai)
 
 ---
-Part of the [ferrow-toolkit](https://github.com/Ruzylo-cloud/ferrow-toolkit) collection · Sponsored by [Ferrow](https://ferrow.ai)
+Part of the [ferrow-toolkit](https://github.com/FerrowAI/ferrow-toolkit) collection · Sponsored by [Ferrow](https://ferrow.ai)
