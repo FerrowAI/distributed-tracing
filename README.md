@@ -14,7 +14,7 @@ into whatever HTTP client/server you're already using.
 ## Install
 
 ```bash
-npm install distributed-tracing
+npm install @ferrow/distributed-tracing
 ```
 
 ## Quickstart

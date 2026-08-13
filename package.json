@@ -1,5 +1,5 @@
 {
-  "name": "distributed-tracing",
+  "name": "@ferrow/distributed-tracing",
   "version": "2.0.0",
   "description": "A tracer producing spans with traceId/spanId/parentSpanId, spec-correct W3C traceparent header inject/extract, child spans, span events/tags, duration, and a pluggable exporter interface with bundled Console and InMemory exporters.",
   "main": "dist/index.js",
